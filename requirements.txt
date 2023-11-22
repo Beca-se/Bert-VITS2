@@ -1,4 +1,4 @@
-librosa==0.9.1
+librosa==0.10.1
 matplotlib
 numpy
 numba
